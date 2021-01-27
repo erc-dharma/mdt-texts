@@ -38,28 +38,12 @@ DHARMA textual metadata
 |`<duplicateTextID><textId/><corpus/><ref/></duplicateTextID>`|3 fields: Id in free text + corpus in free text mandatory if field ID added + url/reference free text mandatory if field ID added - all the block can be repeated|
 |`<reissue><textReissue value=""/><reissueTextID idno=""/><reissueDate when=""/></reissue>`|3 fields: TextReissue tick box + reissueTextID mandatory if textReissue ticked free text field+ reissueDate mandatory if textReissue ticked free text field|
 |`<textSummary>`| block for free text with <p> - optional|
-|`<keywords>`|field free text - optional - may be repeated|
-
-	<!-- may be repeated -->
-		<term value=""></term>
-	</keywords>
-	<textRemarks><p></p></textRemarks>
-	<textBibliography>
-		<listBibl type=""><!-- may be repeated --><!-- choose primary or secondary -->
-			<bibl><!-- may be repeated for each bibliographical reference -->
-				<ptr target=""/><!-- pointer towards the Zotero short title -->
-				<citedRange unit=""></citedRange>
-			</bibl>
-		</listBibl>
-	</textBibliography>
-	<textRights>
-		<publicationProject></publicationProject>
-		<textDistributionRights target=""/>
-	</textRights>
-	<relatedResources>
-		<artefactID idno=""/><!-- may be repeated -->
-		<surrogateID idno=""/><!-- may be repeated -->
-		<imageID idno=""/><!-- may be repeated -->
-	</relatedResources>
-</textDescription>
-</textMetadataTemplate>
+|`<keywords><term/></keywords>`|block- field free text - optional - may be repeated|
+|`<textRemarks><p></p></textRemarks>`|block for free text with <p> - optional|
+|`<textRights>`|block|
+|`<publicationProject></publicationProject>`|DHARMA - not editable|
+|`<textDistributionRights target=""/>`|CC-BY 4.0 - not editable|
+|`<relatedResources>`|block mandatory|
+|<artefactID idno=""/>| content should be formatted ART+6digits - may be repeated|
+|<surrogateID idno=""/>| content should be formatted SUR+6digits - may be repeated|
+|<imageID idno=""/>| content should be formatted DHARMA_INS+string+5digits_3digits.extension - may be repeated|
