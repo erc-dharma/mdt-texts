@@ -33,6 +33,28 @@ DHARMA textual metadata
 |`<textDate calendar=""><!-- may be repeated --><!-- the calendar has to be declared in the attribute calendar --><ruler></ruler><!-- only for the regnal year -->	<year></year><month></month><fornight></fornight><day></day></textDate>`|TO BE DISCUSSED|
 |`<origDate notBefore="" notAfter="" precision="" evidence="" datingMethod=""></origDate><!-- equivalence of the date according to the occidental calendar -->`|TO BE DISCUSSED|
 
+<textDate>
+<dateRegnalYear>
+	<ruler></ruler>
+	<year></year>
+	<month></month>
+	<fornight></fornight>
+	<day></day>
+</dateRegnalYear>
+<date calendar=""><!-- may be repeated --><!-- the calendar has to be declared in the attribute calendar -->
+	<year></year>
+	<month></month>
+	<fornight></fornight>
+	<day></day>
+</date>
+<dateJovianCycle>
+	<cycleName></cycleName>
+	<month></month>
+	<fornight></fornight>
+	<day></day>
+</dateJovianCycle>
+<origDate notBefore="" notAfter="" precision="" evidence="" datingMethod=""></origDate><!-- equivalence of the date according to the occidental calendar -->
+</textDate>
 	<textFiliation>
 		<duplicateTextID idno=""/><!-- may be repeated -->
 		<textReissue value=""/>
