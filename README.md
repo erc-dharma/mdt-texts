@@ -29,31 +29,13 @@ DHARMA textual metadata
 |`<linesNumber></linesNumber>`| field mandatory - content type number|
 |`<textLanguage value=""/>`| mandatory closed list-- may be repeated with symbol|
 |`<textScript value=""/>`| mandatory closed list-- may be repeated with symbol|
-|date|block|
-|`<textDate calendar=""><!-- may be repeated --><!-- the calendar has to be declared in the attribute calendar --><ruler></ruler><!-- only for the regnal year -->	<year></year><month></month><fornight></fornight><day></day></textDate>`|TO BE DISCUSSED|
-|`<origDate notBefore="" notAfter="" precision="" evidence="" datingMethod=""></origDate><!-- equivalence of the date according to the occidental calendar -->`|TO BE DISCUSSED|
+|date `textDate`|block|
+|`<dateRegnalYear>`|1 line with 5 fields free text -- optional with titles: ruler, year, month, fornight and day. One occurence + field commentary free text optional => to be display with symbol + |
+|`<date calendar="">`| 1 line with 4 fields free text for year, month, fornight and day and 1 closed list for calendar + field commentary free text optional  => to be display with symbol +. One occurence to several occurences|
+|`<dateJovianCycle>`|1 line with 4 fields free text -- optional with titles: cycleName, month, fornight and day. One occurence + field commentary free text optional => to be display with symbol + |
+|`<origDate notBefore="" notAfter="" when="" precision="" evidence="" datingMethod=""></origDate><!-- equivalence of the date according to the occidental calendar -->`|1 line notBefore and notAfter OR when. mandatory. + precision closed list mandatory + evidence closed list mandatory for one value; one to several occurences BUT if several each entry must different + datingMethod fixed= gregorian|
 
-<textDate>
-<dateRegnalYear>
-	<ruler></ruler>
-	<year></year>
-	<month></month>
-	<fornight></fornight>
-	<day></day>
-</dateRegnalYear>
-<date calendar=""><!-- may be repeated --><!-- the calendar has to be declared in the attribute calendar -->
-	<year></year>
-	<month></month>
-	<fornight></fornight>
-	<day></day>
-</date>
-<dateJovianCycle>
-	<cycleName></cycleName>
-	<month></month>
-	<fornight></fornight>
-	<day></day>
-</dateJovianCycle>
-<origDate notBefore="" notAfter="" precision="" evidence="" datingMethod=""></origDate><!-- equivalence of the date according to the occidental calendar -->
+
 </textDate>
 	<textFiliation>
 		<duplicateTextID idno=""/><!-- may be repeated -->
