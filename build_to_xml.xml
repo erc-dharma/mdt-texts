@@ -34,7 +34,7 @@
     <fileset id="csvFiles" dir="./csv" includes="*.csv"/>
 
     <!-- Transformation csv vers XML -->
-    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtTexts_start.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="csvFiles"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
