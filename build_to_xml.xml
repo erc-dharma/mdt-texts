@@ -35,7 +35,7 @@
     <fileset id="xmlFiles" dir="./temporary" includes="*.xml"/>
 
     <!-- Transformation csv vers XML -->
-    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" in="fake-xml.xml" destdir="./temporary" extension=".xml" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" useImplicitFileset="true" destdir="./temporary" extension=".xml" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
