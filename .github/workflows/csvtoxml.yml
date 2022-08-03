@@ -14,7 +14,13 @@ jobs:
          uses: actions/setup-java@v1
          with:
            java-version: 1.8
-       - name: Build with Ant
+       - name: Clone project-doc with Ant
+         run: ant -noinput -buildfile clone-projectDoc.xml
+
+       - name: run xslt with jave in command lines
+         run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl -o:./temporary
+
+       - name: Split xml into several with Ant
          run: ant -noinput -buildfile build_to_xml.xml
 
        - name: Updating the edited texts in the repository
