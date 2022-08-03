@@ -38,7 +38,6 @@
     <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" destdir="./temporary" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
         <fileset refid="csvFiles"/>
         <factory name="net.sf.saxon.TransformerFactoryImpl"/>
-        <param name="fileset" expression="${csvFiles}"/>
     </xslt>
 
   <!-- Split  XML to several  -->
