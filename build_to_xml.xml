@@ -31,12 +31,10 @@
     <!-- git clone then pull -->
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
-    <fileset id="csvFiles" dir="./csv"/>
     <fileset id="xmlFiles" dir="./temporary" includes="*.xml"/>
 
     <!-- Transformation csv vers XML -->
-    <xslt style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" destdir="./temporary" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
-      <fileset id="csvFiles"/>
+    <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" destdir="./temporary" extension=".xml" useImplicitFileset="true" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
