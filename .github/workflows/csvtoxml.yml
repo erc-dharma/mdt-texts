@@ -20,6 +20,14 @@ jobs:
        - name: run xslt with jave in command lines
          run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl -o:./temporary
 
+       - name: Updating the edited texts in the repository
+         run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add temporay/
+          git commit -m "CSV successfully made into xml"
+          git push
+
        - name: Split xml into several with Ant
          run: ant -noinput -buildfile build_to_xml.xml
 
@@ -28,5 +36,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add output/
-          git commit -m "CSV successfully made into xml"
+          git commit -m "xml successfully made into several"
           git push
