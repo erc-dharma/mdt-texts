@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="dharma-test">
-  
-    <fileset id="xmlFiles" dir="./temporary" includes="*.xml"/>
 
   <!-- Split  XML to several  -->
-  <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_splitting.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
-      <fileset refid="xmlFiles"/>
+  <xslt in="./temporary/mdt_texts.xml" force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_splitting.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
   </xslt>
 </project>
