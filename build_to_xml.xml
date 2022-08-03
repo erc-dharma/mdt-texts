@@ -31,13 +31,18 @@
     <!-- git clone then pull -->
     <git-clone-pull repository="https://github.com/erc-dharma/project-documentation.git" dest="project-documentation" />
 
+    <fileset id="csvFiles" dir="./csv"/>
+    <fileset id="xmlFiles" dir="./temporary" includes="*.xml"/>
+
     <!-- Transformation csv vers XML -->
-    <xslt in="basefile-mdt.xml" out="temporary-mdt.xml" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" extension=".xml" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+    <xslt style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl" destdir="./temporary" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+      <fileset id="csvFiles"/>
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
     </xslt>
 
   <!-- Split  XML to several  -->
-  <xslt in="temporary-mdt.xml" force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_splitting.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+  <xslt force="true" style="./project-documentation/stylesheets/mdt_inscriptions/mdtText_splitting.xsl" destdir="./output" extension=".xml" useImplicitFileset="false" classpath="./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar">
+      <fileset refid="xmlFiles"/>
       <factory name="net.sf.saxon.TransformerFactoryImpl"/>
   </xslt>
 </project>
