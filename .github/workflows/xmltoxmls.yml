@@ -17,6 +17,9 @@ jobs:
          uses: actions/setup-java@v1
          with:
            java-version: 1.8
+       - name: Clone project-doc with Ant
+         run: ant -noinput -buildfile clone-projectDoc.xml
+            
        - name: Split xml into several with Ant
          run: ant -noinput -buildfile build_to_xml.xml
 
