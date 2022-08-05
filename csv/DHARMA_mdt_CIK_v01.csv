@@ -1,0 +1,111 @@
+r,Fields group,Management of the resource,,,,,,,,,,,,Metadata of the text (description of item),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Link(s) to related resources,,0
+0,,,,,,,,,,,,,,Text identity,,,,,,,Text type,,,,Language(s) and script(s),,,,,,,,,,,,Physical form,,,,,,,Date of the text,,,,Filiation,,,,,,,Rights,,,,0
+0,Fields,Identifier of the resource,Origin of the metadata,Editor of the metadata,Date of the edition,Contributor of the metadata,Date of contribution,Type of contribution,Reviewer,Date of review,Project,Corpus,Distribution rights of the metadata,Identifier of the text,Designation,Alternative identifier,Alternative designation,Alternative designation,Location on the artefact/conglomerate artefact/monument,ID of the artefact/conglomerate artefact/monument,Text type 1,Text type 2,Text type 3,Text type 4,Language 1,Script classification 1,Script maturity 1,Language 2,Script classification 2,Script maturity 2,Language 3,Script classification 3,Script maturity 3,Language 4,Script classification 4,Script maturity 4,Lettering technique,Lines (observed),Lines (estimated),Lines per zone(s),Dimensions of text zone(s),Height of glyph,Width of glyph,Date CE,Date interval CE,Date precision,Date evidence,Duplicate ID,Reissue ID,Reissue date,Bibliographical references (primary),Bibliographical references (secondary),Keyword(s),Remarks,Project responsible for publication,Distribution rights of the text,Identifier of the surrogate,Identifier of the digital image,0
+0,Description of the fields,Digital identifier of the inscription as text. Syntax: INS<corpus>00001,Origin of the metadata: database or publication,"Person(s) who supplied/edited metadata (use the DHARMA members' Ids and separate them by $, if more than one editor)",Date of metadata input/editing (YYYY-MM-DD),"Person(s) who modified metadata (use the DHARMA members' Ids and separate them by $, if more than one editor)",Date of metadata modification (YYYY-MM-DD). Use $ to separate the dates,"Type of metadata modification. Use $ to separate the types of contribution, if more than one.","Validation of metadata and validating person (use the DHARMA members' Ids and separate them by $, if more than one editor)",Date of metadata review (YYYY-MM-DD),Project responsible for making these metadata available,Corpus to which the inscription pertains,Licence applicable to metadata,"Identifier of the text. 
+Syntax: INS<corpus>00001",Designation of the text [= title in xml edition],Alternative identifier(s),Alternative designation(s),Alternative designation(s),Location on the artefact/conglomerate artefact/monument (free text),ID of the artefact/conglomerate artefact/monument bearing the text,"Text type (ideally only 1, choose misc. if you need to record more than 1)",Text type 2 (use only if more than 1 is necessary – Text type 1 must then have value misc.),Text type 3 (use only if more than 1 is necessary – Text type 1 must then have value misc.),Text type 4 (use only if more than 1 is necessary – Text type 1 must then have value misc.),Language of the text,Script of the text,Maturity of script (if the script classification is Brahmi and derivatives only),Language of the text,Script of the text,Maturity of script (if the script classification is Brahmi and derivatives only),Language of the text,Script of the text,Maturity of script (if the script classification is Brahmi and derivatives only),Language of the text,Script of the text,Maturity of script (if the script classification is Brahmi and derivatives only),"Writing technique (engraved, relief, painted, etc.)",Number of lines of this text preserved/observed on the artefact,Known or estimated total number of lines in this text,Number of lines observed per zone (format A:10§B:12),"Height x Width of the inscribed zone or zones (cm) – if multiple zones, use $ as separator and letter prefix plus colon before h and w values ",Height of an average aksara (cm),Width of an average aksara (cm),YYYY-MM-DD or YYYY-MM or YYYY,YYYY-YYYY,precision of the text's dating,evidence that indicates the date of the text,ID of the corresponding text,ID of the corresponding text,CE date of reissue (YYYY or YYYY-YYYY),Bibliographical references. Use $ to separate the references,Bibliographical references. Use $ to separate the references,"Terms to characterize the inscription. The choice of keywords is free, use $ to separate terms",Remarks on text-related metadata (free text),Project responsible for making this text edition available,Licence applicable to the text edition,Identifier(s) of the related surrogate(s),Identifier(s) of the related digital image(s),0
+1,EXAMPLE,INSCIC00001,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,argr$sapi,2022-01-21,completion,argr$sapi,2022-02-04,DHARMA,CIC,CC0,INSCIC00001,The back of a Viṣṇu Statue at Biên Hòa,C. 1,,,back,ARTCIC000001,inaugurative - installation_religious_image,,,,Old Cham,brahmi_and_derivatives - southeast_asian_brahmi - cam_script,vernacular Brahmi-derived script,,,,,,,,,,engraved,9,9,,85x65,3,,,1421-1422,low,internal date,,,,"Cabaton1904_01 (with eye-copy in fig. 6)$Griffiths2019_01: 200-202, fig. 4","Aymonier1891_01: 7, 84-85$Finot1901_01: 18, fig. 4$Coedes1908_01: 40 (no. 1)$Finot1915_01: 14$Parmentier1909_01: 553-555, fig. 127$Coedes1923_01: 4-5 (no. 1)$Majumdar1927_01: part III, 224$Boisselier1963_01: 365, fig. 235$Golzio2004_01: 199-200",,,DHARMA,CC-BY 4.0,est_EFEO_00263$est_EFEO_n02313,,1
+2,EXAMPLE,INSCIC00002,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,argr$sapi,2022-02-04,completion,,,DHARMA,CIC,CC0,INSCIC00002,,C. 2,,,,ARTCIC000002,commemorative,,,,Old Cham,brahmi_and_derivatives - southeast_asian_brahmi - cam_script,vernacular Brahmi-derived script,,,,,,,,,,engraved,8,8,,,3,,,1600-1800,low,lettering,,,,Aymonier1881_01,Coedes1908_01: 40 (no. 2)$Aymonier1900_01: 331$LunetdeLajonquiere1902_01: 93 (no. 86)$Coedes1923_01: 4-5 (no. 2),,The third inscription in Weber 2014 has been wrongly identified as C. 2. The inscription in question has since received the number C. 239.,DHARMA,CC-BY 4.0,est_BnF_208_24,DHARMA_SUR208BNFParis_01$DHARMA_SUR208BNFParis_02$DHARMA_SUR208BNFParis_03$DHARMA_SUR208BNFParis_04$DHARMA_SUR208BNFParis_05$DHARMA_SUR208BNFParis_06,2
+3,EXAMPLE,INSCIC00004_1,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,,,,,,DHARMA,CIC,CC0,INSCIC00004_1,,C. 4,,,B,ARTCIC000004,,,,,Old Cham,,,,,,,,,,,,engraved,,20,,,,,,,,,,,,"JA 1888 (1), 91 ; 1891 (1), 50. — BEFEO III, 634viii; XV (2), 9, 51. — Parmentier1909_01: 801.",,,,DHARMA,CC-BY 4.0,2 ; n. 143$383 (43),,3
+4,EXAMPLE,INSCIC00004_2,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,,,,,,DHARMA,CIC,CC0,INSCIC00004_2,,C. 4,,,A,ARTCIC000004,,,,,Old Cham,,,,,,,,,,,,engraved,,21,,,,,,,,,,,,"JA 1888 (1), 91 ; 1891 (1), 50. — BEFEO III, 634viii; XV (2), 9, 51. — Parmentier1909_01: 801.",,,,DHARMA,CC-BY 4.0,2 ; n. 143$383 (43),,4
+5,EXAMPLE,INSCIC00217_1,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,,,,,,DHARMA,CIC,CC0,INSCIC00217_1,Inscription de Phươc Thiện,C. 217,,,A,ARTCIC000217,,,,,Sanskrit,,,,,,,,,,,,engraved,,invoc. + 12,,,,,,,,,,,,"JA 295 (2007), p. 349-381",rapport fouilles vietnamiennes,,,DHARMA,CC-BY 4.0,n. 1883,,5
+6,EXAMPLE,INSCIC00217_2,Inventaire EFEO des inscriptions du Campa,argr,2021-11-19,,,,,,DHARMA,CIC,CC0,INSCIC00217_2,Inscription de Phươc Thiện,C. 217,,,B,ARTCIC000217,,,,,Sanskrit,,,,,,,,,,,,engraved,,12,,,,,,,,,,,,"JA 295 (2007), p. 349-381",rapport fouilles vietnamiennes,,,DHARMA,CC-BY 4.0,n. 1884,,6
+7,,INSCIK00001,,,,,,,,,DHARMA,CIK,CC0,INSCIK00001,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,7
+8,,INSCIK00002,,,,,,,,,DHARMA,CIK,CC0,INSCIK00002,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,8
+9,,INSCIK00003,,,,,,,,,DHARMA,CIK,CC0,INSCIK00003,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,9
+10,,INSCIK00004,,,,,,,,,DHARMA,CIK,CC0,INSCIK00004,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,10
+11,,INSCIK00005,,,,,,,,,DHARMA,CIK,CC0,INSCIK00005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,11
+12,,INSCIK00006,,,,,,,,,DHARMA,CIK,CC0,INSCIK00006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,12
+13,,INSCIK00007,,,,,,,,,DHARMA,CIK,CC0,INSCIK00007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,13
+14,,INSCIK00008,,,,,,,,,DHARMA,CIK,CC0,INSCIK00008,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,14
+15,,INSCIK00009,,,,,,,,,DHARMA,CIK,CC0,INSCIK00009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,15
+16,,INSCIK00010,,,,,,,,,DHARMA,CIK,CC0,INSCIK00010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,16
+17,,INSCIK00011,,,,,,,,,DHARMA,CIK,CC0,INSCIK00011,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,17
+18,,INSCIK00012,,,,,,,,,DHARMA,CIK,CC0,INSCIK00012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,18
+19,,INSCIK00013,,,,,,,,,DHARMA,CIK,CC0,INSCIK00013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,19
+20,,INSCIK00014,,,,,,,,,DHARMA,CIK,CC0,INSCIK00014,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,20
+21,,INSCIK00015,,,,,,,,,DHARMA,CIK,CC0,INSCIK00015,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,21
+22,,INSCIK00016,,,,,,,,,DHARMA,CIK,CC0,INSCIK00016,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,22
+23,,INSCIK00017,,,,,,,,,DHARMA,CIK,CC0,INSCIK00017,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,23
+24,,INSCIK00018,,,,,,,,,DHARMA,CIK,CC0,INSCIK00018,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,24
+25,,INSCIK00019,,,,,,,,,DHARMA,CIK,CC0,INSCIK00019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,25
+26,,INSCIK00020,,,,,,,,,DHARMA,CIK,CC0,INSCIK00020,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,26
+27,,INSCIK00021,,,,,,,,,DHARMA,CIK,CC0,INSCIK00021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,27
+28,,INSCIK00022,,,,,,,,,DHARMA,CIK,CC0,INSCIK00022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,28
+29,,INSCIK00023,,,,,,,,,DHARMA,CIK,CC0,INSCIK00023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,29
+30,,INSCIK00024,,,,,,,,,DHARMA,CIK,CC0,INSCIK00024,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,30
+31,,INSCIK00025,,,,,,,,,DHARMA,CIK,CC0,INSCIK00025,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,31
+32,,INSCIK00026,,,,,,,,,DHARMA,CIK,CC0,INSCIK00026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,32
+33,,INSCIK00027,,,,,,,,,DHARMA,CIK,CC0,INSCIK00027,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,33
+34,,INSCIK00028,,,,,,,,,DHARMA,CIK,CC0,INSCIK00028,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,34
+35,,INSCIK00029,,,,,,,,,DHARMA,CIK,CC0,INSCIK00029,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,35
+36,,INSCIK00030,,,,,,,,,DHARMA,CIK,CC0,INSCIK00030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,36
+37,,INSCIK00031,,,,,,,,,DHARMA,CIK,CC0,INSCIK00031,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,37
+38,,INSCIK00032,,,,,,,,,DHARMA,CIK,CC0,INSCIK00032,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,38
+39,,INSCIK00033,,,,,,,,,DHARMA,CIK,CC0,INSCIK00033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,39
+40,,INSCIK00034,,,,,,,,,DHARMA,CIK,CC0,INSCIK00034,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,40
+41,,INSCIK00035,,,,,,,,,DHARMA,CIK,CC0,INSCIK00035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,41
+42,,INSCIK00036,,,,,,,,,DHARMA,CIK,CC0,INSCIK00036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,42
+43,,INSCIK00037,,,,,,,,,DHARMA,CIK,CC0,INSCIK00037,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,43
+44,,INSCIK00038,,,,,,,,,DHARMA,CIK,CC0,INSCIK00038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,44
+45,,INSCIK00039,,,,,,,,,DHARMA,CIK,CC0,INSCIK00039,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,45
+46,,INSCIK00040,,,,,,,,,DHARMA,CIK,CC0,INSCIK00040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,46
+47,,INSCIK00041,,,,,,,,,DHARMA,CIK,CC0,INSCIK00041,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,47
+48,,INSCIK00042,,,,,,,,,DHARMA,CIK,CC0,INSCIK00042,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,48
+49,,INSCIK00043,,,,,,,,,DHARMA,CIK,CC0,INSCIK00043,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,49
+50,,INSCIK00044,,,,,,,,,DHARMA,CIK,CC0,INSCIK00044,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,50
+51,,INSCIK00045,,,,,,,,,DHARMA,CIK,CC0,INSCIK00045,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,51
+52,,INSCIK00046,,,,,,,,,DHARMA,CIK,CC0,INSCIK00046,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,52
+53,,INSCIK00047,,,,,,,,,DHARMA,CIK,CC0,INSCIK00047,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,53
+54,,INSCIK00048,,,,,,,,,DHARMA,CIK,CC0,INSCIK00048,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,54
+55,,INSCIK00049,,,,,,,,,DHARMA,CIK,CC0,INSCIK00049,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,55
+56,,INSCIK00050,,,,,,,,,DHARMA,CIK,CC0,INSCIK00050,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,56
+57,,INSCIK00051,,,,,,,,,DHARMA,CIK,CC0,INSCIK00051,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,57
+58,,INSCIK00052,,,,,,,,,DHARMA,CIK,CC0,INSCIK00052,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,58
+59,,INSCIK00053,,,,,,,,,DHARMA,CIK,CC0,INSCIK00053,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,59
+60,,INSCIK00054,,,,,,,,,DHARMA,CIK,CC0,INSCIK00054,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,60
+61,,INSCIK00055,,,,,,,,,DHARMA,CIK,CC0,INSCIK00055,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,61
+62,,INSCIK00056,,,,,,,,,DHARMA,CIK,CC0,INSCIK00056,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,62
+63,,INSCIK00057,,,,,,,,,DHARMA,CIK,CC0,INSCIK00057,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,63
+64,,INSCIK00058,,,,,,,,,DHARMA,CIK,CC0,INSCIK00058,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,64
+65,,INSCIK00059,,,,,,,,,DHARMA,CIK,CC0,INSCIK00059,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,65
+66,,INSCIK00060,,,,,,,,,DHARMA,CIK,CC0,INSCIK00060,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,66
+67,,INSCIK00061,,,,,,,,,DHARMA,CIK,CC0,INSCIK00061,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,67
+68,,INSCIK00062,,,,,,,,,DHARMA,CIK,CC0,INSCIK00062,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,68
+69,,INSCIK00063,,,,,,,,,DHARMA,CIK,CC0,INSCIK00063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,69
+70,,INSCIK00064,,,,,,,,,DHARMA,CIK,CC0,INSCIK00064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,70
+71,,INSCIK00065,,,,,,,,,DHARMA,CIK,CC0,INSCIK00065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,71
+72,,INSCIK00066,,,,,,,,,DHARMA,CIK,CC0,INSCIK00066,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,72
+73,,INSCIK00067,,,,,,,,,DHARMA,CIK,CC0,INSCIK00067,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,73
+74,,INSCIK00068,,,,,,,,,DHARMA,CIK,CC0,INSCIK00068,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,74
+75,,INSCIK00069,,,,,,,,,DHARMA,CIK,CC0,INSCIK00069,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,75
+76,,INSCIK00070,,,,,,,,,DHARMA,CIK,CC0,INSCIK00070,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,76
+77,,INSCIK00071,,,,,,,,,DHARMA,CIK,CC0,INSCIK00071,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,77
+78,,INSCIK00072,,,,,,,,,DHARMA,CIK,CC0,INSCIK00072,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,78
+79,,INSCIK00073,,,,,,,,,DHARMA,CIK,CC0,INSCIK00073,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,79
+80,,INSCIK00074,,,,,,,,,DHARMA,CIK,CC0,INSCIK00074,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,80
+81,,INSCIK00075,,,,,,,,,DHARMA,CIK,CC0,INSCIK00075,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,81
+82,,INSCIK00076,,,,,,,,,DHARMA,CIK,CC0,INSCIK00076,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,82
+83,,INSCIK00077,,,,,,,,,DHARMA,CIK,CC0,INSCIK00077,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,83
+84,,INSCIK00078,,,,,,,,,DHARMA,CIK,CC0,INSCIK00078,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,84
+85,,INSCIK00079,,,,,,,,,DHARMA,CIK,CC0,INSCIK00079,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,85
+86,,INSCIK00080,,,,,,,,,DHARMA,CIK,CC0,INSCIK00080,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,86
+87,,INSCIK00081,,,,,,,,,DHARMA,CIK,CC0,INSCIK00081,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,87
+88,,INSCIK00082,,,,,,,,,DHARMA,CIK,CC0,INSCIK00082,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,88
+89,,INSCIK00083,,,,,,,,,DHARMA,CIK,CC0,INSCIK00083,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,89
+90,,INSCIK00084,,,,,,,,,DHARMA,CIK,CC0,INSCIK00084,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,90
+91,,INSCIK00085,,,,,,,,,DHARMA,CIK,CC0,INSCIK00085,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,91
+92,,INSCIK00086,,,,,,,,,DHARMA,CIK,CC0,INSCIK00086,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,92
+93,,INSCIK00087,,,,,,,,,DHARMA,CIK,CC0,INSCIK00087,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,93
+94,,INSCIK00088,,,,,,,,,DHARMA,CIK,CC0,INSCIK00088,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,94
+95,,INSCIK00089,,,,,,,,,DHARMA,CIK,CC0,INSCIK00089,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,95
+96,,INSCIK00090,,,,,,,,,DHARMA,CIK,CC0,INSCIK00090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,96
+97,,INSCIK00091,,,,,,,,,DHARMA,CIK,CC0,INSCIK00091,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,97
+98,,INSCIK00092,,,,,,,,,DHARMA,CIK,CC0,INSCIK00092,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,98
+99,,INSCIK00093,,,,,,,,,DHARMA,CIK,CC0,INSCIK00093,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,99
+100,,INSCIK00094,,,,,,,,,DHARMA,CIK,CC0,INSCIK00094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,100
+101,,INSCIK00095,,,,,,,,,DHARMA,CIK,CC0,INSCIK00095,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,101
+102,,INSCIK00096,,,,,,,,,DHARMA,CIK,CC0,INSCIK00096,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,102
+103,,INSCIK00097,,,,,,,,,DHARMA,CIK,CC0,INSCIK00097,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,103
+104,,INSCIK00098,,,,,,,,,DHARMA,CIK,CC0,INSCIK00098,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,104
+105,,INSCIK00099,,,,,,,,,DHARMA,CIK,CC0,INSCIK00099,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,105
+106,,INSCIK00100,,,,,,,,,DHARMA,CIK,CC0,INSCIK00100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DHARMA,CC-BY 4.0,,,106
