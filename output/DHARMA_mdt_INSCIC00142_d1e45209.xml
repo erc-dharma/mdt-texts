@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00142</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00142</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSCIC00142</idno>
+                  <altIdentifier>
+                     <idno>C. 142</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="# d)  #ARTCIC000142 #installation_religious_image">
+                     <textLang mainLang="" otherLangs=" "/>
+                     <filiation type="reissue">
+                        <ref href="internal date">Inscription internal date reissue in </ref>
+                     </filiation>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp=" back (B) and sides (c">
+                     <supportDesc>
+                        <p>front (A)</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="-engraved">
+                           <p> lines are observed/preserved on the artifact. engraved are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="">
+                           <p>Zone  has  lines.</p>
+                        </layout>
+                        <layout>
+                           <p> is inscribed on  cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>. <dimensions type="askara" unit="cm">
+                           <height>A:18§B:21§c:20§d:26</height>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="909-910"/>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Finot1915_01: 16-17$Coedes1923_01: 32-33 (no. 141)$Parmentier1923_01: 274$Finot1927_01: 306-307$Majumdar1927_01: part III</recordHist>
+                     <availability>
+                        <p> 111-121$Finot1928_03: 290 n.1$Golzio2004_01: 97-106</p>
+                        <licence/>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:nombre de lignes inv. 1942 peut-être incorrecte"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Huber1911_01: 285-298</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-02-11">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

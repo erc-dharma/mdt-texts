@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00005</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00005</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSCIC00005</idno>
+                  <altIdentifier>
+                     <idno>C. 5</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative">
+                     <textLang mainLang="ocm"/>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Finot1903_04"/>
+                           <citedRange> 646-647.</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Finot1903_04"/>
+                           <citedRange> 634 (no. IX)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Coedes1908_01"/>
+                           <citedRange> 40 (no. 5)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Parmentier1909_01"/>
+                           <citedRange> 80 (no. 2)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Finot1915_01"/>
+                           <citedRange> 10</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="ARTCIC000005">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="20">
+                           <p>20 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
+                                 <height>128+</height>
+                                 <width>32</width>
+                              </dimensions>
+                           </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>engraved. <dimensions type="askara" unit="cm">
+                           <height>2</height>
+                           <width>2</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="reign" notBefore="1226" notAfter="">1226-</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist> 209$Golzio2004_01: 182.</recordHist>
+                     <availability>
+                        <p/>
+                        <licence/>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:DHARMA"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:CC-BY 4.0"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term> 51</term>
+               <term>Coedes1923_01: 4-5 (no. 5)</term>
+               <term>Majumdar1927_01: part III</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-06-30">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00061</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00061</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSCIC00061</idno>
+                  <altIdentifier>
+                     <idno>C. 61</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="# d)  #ARTCIC000061 #installation_religious_image">
+                     <textLang mainLang="" otherLangs=" "/>
+                     <filiation type="reissue">
+                        <ref href="903-904">Inscription 903-904 reissue in low</ref>
+                     </filiation>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp=" back (B) and sides (c">
+                     <supportDesc>
+                        <p>front (A)</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="-engraved">
+                           <p> lines are observed/preserved on the artifact. engraved are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="">
+                           <p>Zone  has  lines.</p>
+                        </layout>
+                        <layout>
+                           <p> is inscribed on  cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>. <dimensions type="askara" unit="cm">
+                           <height>A:23§B:?§B:12§c:22§d:22</height>
+                           <width>A:104+x40$B:?$c:102x22$d:102x22</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="1" evidence="5" notBefore="" notAfter="">5</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>Huber1911_01: 282-283.</p>
+                        <licence>Coedes1908_01: 44 (no. 61)$Parmentier1909_01: 236$Finot1915_01:11$Coedes1923_01: 16-17 (no. 61)$Majumdar1927_01: part III</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur: 109-111"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:Golzio2004_01: 92-93."/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-07-04">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

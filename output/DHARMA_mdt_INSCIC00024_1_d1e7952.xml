@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00024_1</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00024_1</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSCIC00024_1</idno>
+                  <altIdentifier>
+                     <idno>C. 24</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#installation_religious_image">
+                     <textLang mainLang="san"/>
+                     <filiation type="duplicate">
+                        <ref href="internal date">internal date is a duplicate</ref>
+                     </filiation>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Bergaigne1893_01"/>
+                           <citedRange> 218-231 (no XXIII</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="ARTCIC000024">
+                     <supportDesc>
+                        <p>front (A) </p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="23-invocation+22">
+                           <p>23 lines are observed/preserved on the artifact. invocation+22 are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                                 <height>108</height>
+                                 <width>76</width>
+                              </dimensions>
+                           </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>engraved. <dimensions type="askara" unit="cm">
+                           <height>1</height>
+                           <width>5</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="810-811" evidence="low" when="1">1</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Finot1903_04: 633 (no. II)$Coedes1908_01: 41 (no. 24)$Parmentier1909_01: 78$Finot1915_01: 8$Coedes1923_01: 8-9 (no. 24)$Majumdar1927_01: part III</recordHist>
+                     <availability>
+                        <p> 51-61$Golzio2004_01: 44-61</p>
+                        <licence/>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="dig:DHARMA"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term> 393)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-07-05">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>
