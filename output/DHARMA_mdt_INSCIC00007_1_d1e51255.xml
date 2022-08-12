@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00007_1</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00007_1</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSCIC00007_1</idno>
+                  <altIdentifier>
+                     <idno>C. 7</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative">
+                     <textLang mainLang="ocm"/>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="ARTCIC000007">
+                     <supportDesc>
+                        <p>front (1)</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="4">
+                           <p>4 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
+                                 <height>24+</height>
+                                 <width>30</width>
+                              </dimensions>
+                           </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>engraved. <dimensions type="askara" unit="cm">
+                           <height>2</height>
+                           <width>1</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate when="5">5</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist> 209$Golzio2004_01: 183. </recordHist>
+                     <availability>
+                        <p/>
+                        <licence>grosse inscription en caractères han-nom gravée sur une portion importante de l'originale en cam.</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:DHARMA"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:CC-BY 4.0"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Bergaigne1888_01: 92 (no. 392)</term>
+               <term>Aymonier1891_01: 52-53 (no. 392)</term>
+               <term>Finot1903_04: 634 (no. X)</term>
+               <term>Coedes1908_01: 40 (no. 7)</term>
+               <term>Parmentier1909_01: 80 (no. 3)</term>
+               <term>Finot1915_01: 9</term>
+               <term>Coedes1923_01: 4-5 (no. 7)</term>
+               <term>Jacques1977-1978_01: 1079-1080</term>
+               <term>Majumdar1927_01: part III</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-06-30">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

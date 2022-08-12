@@ -38,22 +38,13 @@
                      <supportDesc>
                         <p/>
                      </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="">
-                           <p> lines are observed/preserved on the artifact. </p>
-                        </layout>
-                     </layoutDesc>
+                     <layoutDesc/>
                   </objectDesc>
                   <scriptDesc>
                      <p>. </p>
                   </scriptDesc>
                </physDesc>
-               <history>
-                  <origin>
-                     <p>Written in <origDate/>.
-                                            </p>
-                  </origin>
-               </history>
+               <history/>
                <additional>
                   <adminInfo>
                      <recordHist/>
