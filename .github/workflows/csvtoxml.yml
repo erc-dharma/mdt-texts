@@ -18,8 +18,11 @@ jobs:
        - name: Clone project-doc with Ant
          run: ant -noinput -buildfile clone-projectDoc.xml
 
-       - name: run xslt with jave in command lines
+       - name: run xslt with java in command lines for csv to xml
          run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl -o:./temporary/mdt_texts.xml
+
+       - name: run xslt with jave in command lines
+        run: java -jar ./project-documentation/editorialStylesheets/pipelineTools/saxon9he.jar -it:./temporary/mdt_texts.xml -xsl:./project-documentation/stylesheets/mdt_inscriptions/mdt_CommaCleaning.xsl -o:./temporary/mdt_texts.xml
 
        - name: Updating the edited texts in the repository
          run: |
