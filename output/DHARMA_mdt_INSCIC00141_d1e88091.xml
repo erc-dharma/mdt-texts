@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00141</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00141</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSCIC00141</title>
+                     <title type="alt">C. 141</title>
+                     <textLang mainLang="" otherLangs="">
+                        <p>Predominantly in brahmi_and_derivatives - southeast_asian_brahmi - cam_script, script  and </p>
+                        <p>Predominantly in brahmi_and_derivatives - southeast_asian_brahmi - cam_script, script  and </p>
+                     </textLang>
+                     <filiation>
+                        <ref href="#internal date">
+                                                        Inscription internal date in .</ref>
+                     </filiation>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Huber1911_02"/>
+                           <citedRange> 5-10</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#front (A) and back (B) #ARTCIC000141 #inaugurative ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="33-A:16§B:17">
+                           <p>33 lines are observed/preserved on the artifact. A:16§B:17 are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                                 <height>5</height>
+                                 <width> 47</width>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="76">
+                           <p>Zone A has 76 lines.</p>
+                        </layout>
+                        <layout>
+                           <p> is inscribed on  cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>33.<dimensions type="askara" unit="cm">
+                           <height>5$B:70x47 </height>
+                           <width>1</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate precision="875-977" evidence="low" notBefore="" notAfter="">1</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist> 125-129$Golzio2004_01: 94-97</recordHist>
+                     <availability>
+                        <p/>
+                        <licence/>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:DHARMA"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:CC-BY 4.0"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="est_EFEO_00154a"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="est_EFEO_n00154b"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Huber1911_01: 269</term>
+               <term>Finot1915_01: 15</term>
+               <term>Coedes1923_01: 32-33 (no. 141)</term>
+               <term>Majumdar1927_01: part III</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-02-10">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

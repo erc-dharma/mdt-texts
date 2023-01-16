@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSSomavamsin00003</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from </p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSSomavamsin00003</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+                  <altIdentifier>
+                     <idno>"Gopalpur Plates of Mahābhavagupta Janamejaya, Year 10"</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSSomavamsin00003</title>
+                     <textLang mainLang="">
+                        <p>Predominantly in brahmi_and_derivatives - northern_class_brahmi, script  and </p>
+                     </textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="49-">
+                           <p>49 lines are observed/preserved on the artifact.  are known or estimated for this text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist>CC-BY 4.0</recordHist>
+                     <availability>
+                        <p/>
+                        <licence/>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>DHARMA</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="">
+                                    Reviews of medadata
+                                </change>
+         <change when="" who="">
+                                    Contributions made in medadata
+                                </change>
+         <change when="amwb" who="part:2022-03-07">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

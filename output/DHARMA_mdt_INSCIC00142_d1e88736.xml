@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00142</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00142</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#ARTCIC000142 #installation_religious_image">
+                     <title type="main">INSCIC00142</title>
+                     <title type="alt">C. 142</title>
+                     <textLang mainLang="" otherLangs=" ">
+                        <p>Predominantly in vernacular Brahmi-derived script, script  and </p>
+                        <p>Predominantly in vernacular Brahmi-derived script, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Huber1911_01"/>
+                           <citedRange> 285-298</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Finot1915_01"/>
+                           <citedRange> 16-17</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Coedes1923_01"/>
+                           <citedRange> 32-33 (no. 141)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Parmentier1923_01"/>
+                           <citedRange> 274</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Finot1927_01"/>
+                           <citedRange> 306-307</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Majumdar1927_01"/>
+                           <citedRange> part III</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#front (A) # back (B) and sides (c # d)  ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="engraved-85">
+                           <p>engraved lines are observed/preserved on the artifact. 85 are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="">
+                           <p>Zone  has  lines.</p>
+                        </layout>
+                        <layout>
+                           <p>A is inscribed on 18§B:21§c:20§d:26 cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>nombre de lignes inv. 1942 peut-être incorrecte</p>
+                        <licence>DHARMA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:CC-BY 4.0"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:est_EFEO_00157"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term> 111-121</term>
+               <term>Finot1928_03: 290 n.1</term>
+               <term>Golzio2004_01: 97-106</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-02-11">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

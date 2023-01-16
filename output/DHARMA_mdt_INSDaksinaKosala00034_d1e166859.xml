@@ -26,30 +26,32 @@
             <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
-                  <idno>"Sirpur Plates of Śivagupta</idno>
+                  <idno>INSDaksinaKosala00034</idno>
+                  <altIdentifier>
+                     <idno> Year 38"</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <msItem class="#conART00031 #tax_regulation">
-                     <title> Year 38</title>
-                     <textLang mainLang="" otherLangs=""/>
+                  <msItem>
+                     <title type="main">Sirpur Plates of Śivagupta</title>
+                     <textLang mainLang="" otherLangs="">
+                        <p>Predominantly in late Brahmi, script  and </p>
+                     </textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc corresp="#conART00031 ">
                      <supportDesc>
                         <p/>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="-engraved">
-                           <p> lines are observed/preserved on the artifact. engraved are known or estimated for this text.</p>
-                        </layout>
-                        <layout writtenLines="">
-                           <p>Zone  has  lines.</p>
+                        <layout writtenLines="engraved-34">
+                           <p>engraved lines are observed/preserved on the artifact. 34 are known or estimated for this text.</p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <scriptDesc>
-                     <p>. </p>
+                     <p/>
                   </scriptDesc>
                </physDesc>
                <history/>
@@ -57,23 +59,22 @@
                   <adminInfo>
                      <recordHist/>
                      <availability>
-                        <p>Copperplate grant</p>
-                        <licence/>
+                        <p>DHARMA</p>
+                        <licence>CC-BY 4.0</licence>
                      </availability>
                   </adminInfo>
-                  <surrogates>
-                     <bibl>
-                        <ptr target="sur:DHARMA"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:CC-BY 4.0"/>
-                     </bibl>
-                  </surrogates>
+                  <surrogates/>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      <profileDesc/>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>Copperplate grant</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
       <revisionDesc>
          <change when="" who="">
                                     Reviews of medadata

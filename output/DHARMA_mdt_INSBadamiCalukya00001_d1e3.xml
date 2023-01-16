@@ -26,10 +26,11 @@
             <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
-                  <idno>INSBadamiCalukya00001</idno>
+                  <idno>CC0</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
+                     <title type="main">INSBadamiCalukya00001</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -41,7 +42,7 @@
                      <layoutDesc/>
                   </objectDesc>
                   <scriptDesc>
-                     <p>. </p>
+                     <p/>
                   </scriptDesc>
                </physDesc>
                <history/>
@@ -49,18 +50,11 @@
                   <adminInfo>
                      <recordHist/>
                      <availability>
-                        <p/>
-                        <licence/>
+                        <p>DHARMA</p>
+                        <licence>CC-BY 4.0</licence>
                      </availability>
                   </adminInfo>
-                  <surrogates>
-                     <bibl>
-                        <ptr target="sur:DHARMA"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:CC-BY 4.0"/>
-                     </bibl>
-                  </surrogates>
+                  <surrogates/>
                </additional>
             </msDesc>
          </sourceDesc>

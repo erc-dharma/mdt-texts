@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00047</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00047</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSCIC00047</title>
+                     <title type="alt">C. 47</title>
+                     <textLang mainLang="">
+                        <p>Predominantly in brahmi_and_derivatives - southeast_asian_brahmi - cam_script, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Coedes1908_01"/>
+                           <citedRange> 43 (no. 47)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Parmentier1909_01"/>
+                           <citedRange> 178 (no 41)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Coedes1923_01"/>
+                           <citedRange> 12-13 (no. 47)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Majumdar1927_01"/>
+                           <citedRange> part III</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Golzio2004_01"/>
+                           <citedRange> 198</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#plinth of the royal door #ARTCIC000047 #donative - religious_land_grant ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="19">
+                           <p>19 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="">
+                           <p>Zone  has  lines.</p>
+                        </layout>
+                        <layout>
+                           <p> is inscribed on  cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>19.<dimensions type="askara" unit="cm">
+                           <height>1</height>
+                           <width>5</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" precision="internal date" notBefore="1401" notAfter="1402">1401-1402</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY 4.0</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="sapi" who="part:2022-07-01">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>
