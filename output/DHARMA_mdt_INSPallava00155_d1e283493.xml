@@ -29,22 +29,35 @@
                   <idno>INSPallava00155</idno>
                </msIdentifier>
                <msContents>
-                  <msItem>
-                     <textLang mainLang=""/>
+                  <msItem class="#religious_land_grant">
+                     <title type="main">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 10</title>
+                     <textLang mainLang="san" otherLangs="tam">
+                        <p>Predominantly in Sanskrit, script Grantha and regional Brahmi-derived script</p>
+                        <p>Predominantly in Tamil, script Tamil Script and vernacular Brahmi-derived script</p>
+                     </textLang>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc corresp="#CONARTPallava000001 ">
                      <supportDesc>
                         <p/>
                      </supportDesc>
-                     <layoutDesc/>
+                     <layoutDesc>
+                        <layout writtenLines="74-">
+                           <p>74 lines are observed/preserved on the artifact.  are known or estimated for this text.</p>
+                        </layout>
+                     </layoutDesc>
                   </objectDesc>
                   <scriptDesc>
-                     <p/>
+                     <p>engraved.</p>
                   </scriptDesc>
                </physDesc>
-               <history/>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="internal date" notBefore="850" notAfter="902">850-902</origDate>.
+                                            </p>
+                  </origin>
+               </history>
                <additional>
                   <adminInfo>
                      <recordHist/>
@@ -63,7 +76,7 @@
          <change when="" who="">
                                     Reviews of medadata
                                 </change>
-         <change when="" who="">
+         <change when="2023-01-17" who="">
                                     Contributions made in medadata
                                 </change>
          <change when="" who="part:emfr">
