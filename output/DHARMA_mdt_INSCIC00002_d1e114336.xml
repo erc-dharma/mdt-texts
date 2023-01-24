@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00002</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00002</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSCIC00002</title>
+                     <title type="alt">C. 2</title>
+                     <textLang mainLang="">
+                        <p>Predominantly in brahmi_and_derivatives - southeast_asian_brahmi - cam_script, script  and </p>
+                     </textLang>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTCIC000002 #commemorative ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="8">
+                           <p>8 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>8.</p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="lettering" notBefore="" notAfter="">low</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>CC-BY 4.0</recordHist>
+                     <availability>
+                        <p>est_BnF_208_24</p>
+                        <licence>DHARMA_SUR208BNFParis_01$DHARMA_SUR208BNFParis_02$DHARMA_SUR208BNFParis_03$DHARMA_SUR208BNFParis_04$DHARMA_SUR208BNFParis_05$DHARMA_SUR208BNFParis_06</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:2"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>DHARMA</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="argr$sapi" who="part:2022-02-04">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

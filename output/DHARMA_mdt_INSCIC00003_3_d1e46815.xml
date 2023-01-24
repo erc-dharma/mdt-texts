@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00003_3</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00003_3</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSCIC00003_3</title>
+                     <title type="alt">C. 3</title>
+                     <textLang mainLang=""/>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#2 #ARTCIC000003 ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="3">
+                           <p>3 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist> 635ix</recordHist>
+                     <availability>
+                        <p> XV (2)</p>
+                        <licence> 10. — Parmentier1909_01: 804."</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="dig:l'inv. de 1942 a complètement mal interprété l'organisation des trois textes gravés sur cet objet"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target=" omet de mentionner l'utilisation du sanskrit et date deux textes faussement en 1155 ś. Dans ces conditions"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term> 49. — BEFEO III</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>

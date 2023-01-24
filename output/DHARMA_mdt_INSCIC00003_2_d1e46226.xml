@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSCIC00003_2</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Inventaire EFEO des inscriptions du Campa</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSCIC00003_2</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>CC0</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">INSCIC00003_2</title>
+                     <title type="alt">C. 3.2</title>
+                     <textLang mainLang="">
+                        <p>Predominantly in brahmi_and_derivatives - southeast_asian_brahmi - cam_script, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Bergaigne1888_01"/>
+                           <citedRange> 89</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Aymonier1891_01"/>
+                           <citedRange> 49-50</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Finot1903_04"/>
+                           <citedRange> 635 (no. XI)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Coedes1908_01"/>
+                           <citedRange> 40 (no. 3)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Parmentier1909_01"/>
+                           <citedRange> 80-81 (no. 4)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Finot1915_01"/>
+                           <citedRange> 10</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Coedes1923_01"/>
+                           <citedRange> 4-5 (no. 3)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Majumdar1927_01"/>
+                           <citedRange> part III</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Golzio2004_01"/>
+                           <citedRange> 179</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#After reuse as lintel: on one of the vertical faces. #ARTCIC000003 #inaugurative - installation_religious_image ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="3">
+                           <p>3 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
+                                 <height/>
+                                 <width/>
+                              </dimensions>
+                           </p>
+                        </layout>
+                        <layout writtenLines="">
+                           <p>Zone  has  lines.</p>
+                        </layout>
+                        <layout>
+                           <p> is inscribed on  cm.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>3.<dimensions type="askara" unit="cm">
+                           <height>1</height>
+                           <width>5</width>
+                        </dimensions>
+                     </p>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" precision="internal date" notBefore="1233" notAfter="1234">1233-1234</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY 4.0</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:est_BnF_382_43"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:est_EFEO_00001"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:est_EFEO_n00145"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:completion">
+                                    Reviews of medadata
+                                </change>
+         <change when="argr$sapi" who="part:2022-02-11">
+                                    Contributions made in medadata
+                                </change>
+         <change when="argr" who="part:2021-11-19">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line></metadata>
