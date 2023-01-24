@@ -49,8 +49,8 @@
                         <p/>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="8-">
-                           <p>8 lines are observed/preserved on the artifact.  are known or estimated for this text.<dimensions type="inscribed" unit="cm">
+                        <layout writtenLines="8">
+                           <p>8 lines are observed/preserved on the artifact. <dimensions type="inscribed" unit="cm">
                                  <height/>
                                  <width/>
                               </dimensions>

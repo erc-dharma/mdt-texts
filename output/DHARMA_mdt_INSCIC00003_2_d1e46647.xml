@@ -34,7 +34,7 @@
                      <title type="alt">C. 3</title>
                      <textLang mainLang="ocm" otherLangs="san">
                         <p>Predominantly in Old Cham, script  and </p>
-                        <p>Predominantly in Sanskrit, script  and </p>
+                        <p>Secondary language is Sanskrit, script  and </p>
                      </textLang>
                      <listBibl type="primary">
                         <bibl>
@@ -94,10 +94,10 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="argr" who="part:2021-11-19">

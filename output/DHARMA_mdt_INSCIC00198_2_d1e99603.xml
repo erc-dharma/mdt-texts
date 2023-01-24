@@ -53,8 +53,8 @@
                         <p/>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="2-">
-                           <p>2 lines are observed/preserved on the artifact.  are known or estimated for this text.</p>
+                        <layout writtenLines="2">
+                           <p>2 lines are observed/preserved on the artifact. </p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -85,10 +85,10 @@
       </fileDesc>
       <profileDesc/>
       <revisionDesc>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="argr" who="part:2021-11-19">

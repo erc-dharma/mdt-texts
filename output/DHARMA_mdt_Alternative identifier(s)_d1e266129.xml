@@ -38,9 +38,9 @@
                      <title type="alt">Maturity of script (if the script classification is Brahmi and derivatives only)</title>
                      <textLang mainLang="" otherLangs="  ">
                         <p>Predominantly in Maturity of script (if the script classification is Brahmi and derivatives only), script  and </p>
-                        <p>Predominantly in  painted, script  and </p>
-                        <p>Predominantly in Known or estimated total number of lines in this text, script  and </p>
-                        <p>Predominantly in "Height x Width of the inscribed zone or zones (cm) – if multiple zones, script  and </p>
+                        <p>Secondary language is  painted, script  and </p>
+                        <p>Third language is Known or estimated total number of lines in this text, script  and </p>
+                        <p>Fourth language is "Height x Width of the inscribed zone or zones (cm) – if multiple zones, script  and </p>
                      </textLang>
                      <filiation type="Bibliographical references. Use $ to separate the references">
                         <ref href="# CE date of reissue (YYYY or YYYY-YYYY)&#34;">
@@ -139,7 +139,7 @@
          <change when="ID of the monument bearing the text" who="part:ID of the conglomerate artefact bearing the text">
                                     Reviews of medadata
                                 </change>
-         <change when="&#34;ID of the artefact bearing the text. If there is more than one artefact bearing the text" who="part: use part: as separator.&#34;">
+         <change when="&#34;ID of the artefact bearing the text. If there is more than one artefact bearing the text" who="part: use   as separator.&#34;">
                                     Contributions made in medadata
                                 </change>
          <change when="Alternative designation(s)" who="part:Location on the artefact/conglomerate artefact/monument (free text)">

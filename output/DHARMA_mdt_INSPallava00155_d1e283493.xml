@@ -33,7 +33,7 @@
                      <title type="main">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 10</title>
                      <textLang mainLang="san" otherLangs="tam">
                         <p>Predominantly in Sanskrit, script Grantha and regional Brahmi-derived script</p>
-                        <p>Predominantly in Tamil, script Tamil Script and vernacular Brahmi-derived script</p>
+                        <p>Secondary language is Tamil, script Tamil Script and vernacular Brahmi-derived script</p>
                      </textLang>
                   </msItem>
                </msContents>
@@ -43,8 +43,8 @@
                         <p/>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="74-">
-                           <p>74 lines are observed/preserved on the artifact.  are known or estimated for this text.</p>
+                        <layout writtenLines="79">
+                           <p>79 lines are observed/preserved on the artifact. </p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -54,7 +54,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <p>Written in <origDate evidence="internal date" notBefore="850" notAfter="902">850-902</origDate>.
+                     <p>Written in <origDate evidence="internal date" notBefore="850" notAfter="900">850-900</origDate>.
                                             </p>
                   </origin>
                </history>
@@ -73,10 +73,10 @@
       </fileDesc>
       <profileDesc/>
       <revisionDesc>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="2023-01-17" who="">
+         <change when="2023-01-17" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="" who="part:emfr">

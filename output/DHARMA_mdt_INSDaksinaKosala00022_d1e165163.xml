@@ -35,7 +35,7 @@
                   <msItem>
                      <title type="main">Bonda Plates of Tīvararāja</title>
                      <textLang mainLang="" otherLangs="">
-                        <p>Predominantly in late Brahmi, script  and </p>
+                        <p>Secondary language is late Brahmi, script  and </p>
                      </textLang>
                   </msItem>
                </msContents>
@@ -76,10 +76,10 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="" who="">
+         <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="2022-01-17" who="">
+         <change when="2022-01-17" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="2022-01-17" who="part:Natasja Bosma">
