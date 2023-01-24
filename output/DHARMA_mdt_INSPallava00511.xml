@@ -27,9 +27,14 @@
                <msIdentifier>
                   <repository>DHARMAbase</repository>
                   <idno>INSPallava00511</idno>
+                  <altIdentifier>
+                     <idno> rock north of Gaṇeśaratha</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem>
+                     <title type="main">Mahābalipuram</title>
+                     <title type="alt"> word 3"</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -45,16 +50,6 @@
                   </scriptDesc>
                </physDesc>
                <history/>
-               <additional>
-                  <adminInfo>
-                     <recordHist/>
-                     <availability>
-                        <p>DHARMA</p>
-                        <licence>CC-BY 4.0</licence>
-                     </availability>
-                  </adminInfo>
-                  <surrogates/>
-               </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
@@ -63,7 +58,7 @@
          <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="" who="part:">
+         <change when="2023-01-24" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="" who="part:emfr">
