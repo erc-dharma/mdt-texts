@@ -47,3 +47,18 @@ DHARMA textual metadata
 |<artefactID idno=""/>| content should be formatted ART+6digits - may be repeated|
 |<surrogateID idno=""/>| content should be formatted SUR+6digits - may be repeated|
 |<imageID idno=""/>| content should be formatted DHARMA_INS+string+5digits_3digits.extension - may be repeated|
+
+## content of the repo and working of the github action
+CSV folder = stored the csv files for texts mdt of the projects downloaded from googleSheets. 
+output = temporary files for each surrogate, to check if necessary. Splitted by xslt stored in project-documentatation/Stylesheets/mdt_inscriptions/mdtText_splitting.xsl
+temporary=  1 xml file containing all texts description used to render the html display. Made with xslt stored in project-documentatation/Stylesheets/mdt_inscriptions/mdtText_start.xsl
+
+build_to_xml.xml = launch the transformation for splitting the output file into several files sotred into temporary.
+clone-projectDoc.xml = clone project-documentation for github action
+
+.github/workflows
+1- run csvtoxml.yml on push on java line launching project-documentation/stylesheets/mdt_inscriptions/mdtText_start.xsl, source folder github api and destination: temporary folder. 
+2- run commacleaning.yml on finishingcsvtoxml.yml .yml task, one java line launching project-documentation/stylesheets/mdt_inscriptions/mdt_CommaCleaning.xsl, source temporary folder, destination temporary folder. 
+3- run xmltodisplay.yml on finishing commacleaning.yml task,  launch the two ant tasks clone-projectDoc.xml then build_to_display.xm, source folder temporary, destination folder output
+
+folder output called for all corpora repository from the main build.xml and transform with project-documentatation/Stylesheets/mdt_inscriptions/mdtText_display.xsl to generate a html available with index-mdt.html retrieved thanks to github api. 
