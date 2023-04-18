@@ -558,7 +558,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#religious_land_grant">
-                     <title type="main">Uruvupalli grant, time of Siṃhavarman, year 11</title>
+                     <title type="main">Uruvupalli grantCOMMA time of SiṃhavarmanCOMMA year 11</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -1520,7 +1520,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#contruction_religious_building">
-                     <title type="main">Taḷavāṉūr, time of Mahendravarman I</title>
+                     <title type="main">TaḷavāṉūrCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -1668,7 +1668,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#eulogy">
-                     <title type="main">Kāñcipuram, time of Mahendravarman I</title>
+                     <title type="main">KāñcipuramCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -1890,7 +1890,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title type="main">Mākēntiravaṭi, time of Mahendravarman I</title>
+                     <title type="main">MākēntiravaṭiCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -2112,7 +2112,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title type="main">Maṇṭakappaṭṭu, time of Mahendravarman I</title>
+                     <title type="main">MaṇṭakappaṭṭuCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -11584,7 +11584,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#religious_land_grant">
-                     <title type="main">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 10</title>
+                     <title type="main">Vākūr (Pākūr) platesCOMMA time of NṛpatuṅgavarmanCOMMA year 10</title>
                      <textLang mainLang="san" otherLangs="tam">
                         <p>Predominantly in Sanskrit, script Grantha and regional Brahmi-derived script</p>
                         <p>Secondary language is Tamil, script Tamil Script and vernacular Brahmi-derived script</p>
@@ -39372,290 +39372,6 @@
                                     Contributions made in medadata
                                 </change>
          <change when="" who="part:emfr">
-                                    import of medadata
-                                </change>
-      </revisionDesc>
-   </line>
-   <line>
-      <fileDesc>
-         <titleStmt>
-            <title>Metadata elements for Alternative identifier(s)</title>
-         </titleStmt>
-         <editionStmt>
-            <p>Metadata originated from Alternative designation(s)</p>
-         </editionStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_mdt_Alternative identifier(s)</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                                                Licence. To view a copy of the licence, visit
-                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                                                California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno>Text type 3 (use only if more than 1 is necessary – Text type 1 must then have value misc.)</idno>
-                  <altIdentifier>
-                     <idno>Language of the text</idno>
-                  </altIdentifier>
-               </msIdentifier>
-               <msContents>
-                  <msItem class="#Script of the text #Maturity of script (if the script classification is Brahmi and derivatives only) #Language of the text #Script of the text">
-                     <title type="main">Text type 4 (use only if more than 1 is necessary – Text type 1 must then have value misc.)</title>
-                     <title type="alt">Script of the text</title>
-                     <title type="alt">Maturity of script (if the script classification is Brahmi and derivatives only)</title>
-                     <textLang mainLang="" otherLangs="  ">
-                        <p>Predominantly in Maturity of script (if the script classification is Brahmi and derivatives only), script  and </p>
-                        <p>Secondary language is  painted, script  and </p>
-                        <p>Third language is Known or estimated total number of lines in this text, script  and </p>
-                        <p>Fourth language is "Height x Width of the inscribed zone or zones (cm) – if multiple zones, script  and </p>
-                     </textLang>
-                     <filiation type="Bibliographical references. Use $ to separate the references">
-                        <ref href="# CE date of reissue (YYYY or YYYY-YYYY)&#34;">
-                                                        Inscription  CE date of reissue (YYYY or YYYY-YYYY)"Bibliographical references. Use $ to separate the references in Bibliographical references. Use $ to separate the references.</ref>
-                     </filiation>
-                     <listBibl type="primary">
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                     </listBibl>
-                     <listBibl type="secondary">
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                     </listBibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc corresp="#Script of the text #Maturity of script (if the script classification is Brahmi and derivatives only) #Language of the text ">
-                     <supportDesc>
-                        <p>Language of the text</p>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="YYYY-MM-DD or YYYY-MM or YYYY-YYYY-YYYY">
-                           <p>YYYY-MM-DD or YYYY-MM or YYYY lines are observed/preserved on the artifact. YYYY-YYYY are known or estimated for this text.<dimensions type="inscribed" unit="cm">
-                                 <height>degree of precision of the te</height>
-                                 <width>t's dating</width>
-                              </dimensions>
-                           </p>
-                        </layout>
-                        <layout writtenLines="">
-                           <p>Zone  has  lines.</p>
-                        </layout>
-                        <layout>
-                           <p> is inscribed on  cm.</p>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <scriptDesc>
-                     <p>Width of an average aksara (cm).<dimensions type="askara" unit="cm">
-                           <height>evidence that indicates the date of the text</height>
-                           <width>ID of other instances of the corresponding text</width>
-                        </dimensions>
-                     </p>
-                  </scriptDesc>
-               </physDesc>
-               <history>
-                  <origin>
-                     <p>Written in <origDate cert=" reissue"
-                                  precision=" undetermined)&#34;"
-                                  evidence="&#34;In case of reissue"
-                                  notBefore=""
-                                  notAfter=""> duplicate</origDate>.
-                                            </p>
-                  </origin>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <recordHist>Project responsible for making this text edition available</recordHist>
-                     <availability>
-                        <p>Licence applicable to the text edition</p>
-                        <licence>Identifier(s) of the related surrogate(s). Use $ to separate the identifiers.</licence>
-                     </availability>
-                  </adminInfo>
-                  <surrogates>
-                     <bibl>
-                        <ptr target="sur:Identifier(s) of the related digital image(s). Use "/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur: to separate the identifiers."/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:Link(s) to related images stored on external repository.  Use "/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig: to separate the identifiers."/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="0"/>
-                     </bibl>
-                  </surrogates>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term>Remarks on text-related metadata (free text)</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="ID of the monument bearing the text"
-                 who="part:ID of the conglomerate artefact bearing the text">
-                                    Reviews of medadata
-                                </change>
-         <change when="&#34;ID of the artefact bearing the text. If there is more than one artefact bearing the text"
-                 who="part: use   as separator.&#34;">
-                                    Contributions made in medadata
-                                </change>
-         <change when="Alternative designation(s)"
-                 who="part:Location on the artefact/conglomerate artefact/monument (free text)">
-                                    import of medadata
-                                </change>
-      </revisionDesc>
-   </line>
-   <line>
-      <fileDesc>
-         <titleStmt>
-            <title>Metadata elements for INSTelugu00001</title>
-         </titleStmt>
-         <editionStmt>
-            <p>Metadata originated from "Lakhsmana Rao 1927-1928: 271-275 (EI XIX</p>
-         </editionStmt>
-         <publicationStmt>
-            <authority>DHARMA</authority>
-            <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_mdt_INSTelugu00001</idno>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0/">
-                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
-                                                Licence. To view a copy of the licence, visit
-                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
-                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
-                                                California, 94041, USA.</p>
-                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
-               </licence>
-            </availability>
-            <date from="2019" to="2025">2019-2025</date>
-         </publicationStmt>
-         <sourceDesc>
-            <msDesc>
-               <msIdentifier>
-                  <repository>DHARMAbase</repository>
-                  <idno>CC0</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <title type="main">INSTelugu00001</title>
-                     <textLang mainLang="" otherLangs="">
-                        <p>Secondary language is regional_Brahmi--derived_script, script  and </p>
-                     </textLang>
-                     <filiation>
-                        <ref href="#reign">
-                                                        Inscription reign in .</ref>
-                     </filiation>
-                     <listBibl type="secondary">
-                        <bibl>
-                           <ptr target="bib:&#34;Butterworth &amp; Venugopaul Chetty 1905"/>
-                           <citedRange> 896-897 (NI II: 896-897)</citedRange>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:Lakshmana Rao 1927-1928"/>
-                           <citedRange> 271-275 (EI XIX</citedRange>
-                        </bibl>
-                     </listBibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc corresp="#On a stone lying in a field at Addanki #ARTTelugu000001 ">
-                     <supportDesc>
-                        <p/>
-                     </supportDesc>
-                     <layoutDesc>
-                        <layout writtenLines="-12">
-                           <p> lines are observed/preserved on the artifact. 12 are known or estimated for this text.</p>
-                        </layout>
-                        <layout writtenLines="">
-                           <p>Zone  has  lines.</p>
-                        </layout>
-                     </layoutDesc>
-                  </objectDesc>
-                  <scriptDesc>
-                     <p/>
-                  </scriptDesc>
-               </physDesc>
-               <history>
-                  <origin>
-                     <p>Written in <origDate notBefore="" notAfter="">849</origDate>.
-                                            </p>
-                  </origin>
-               </history>
-               <additional>
-                  <adminInfo>
-                     <recordHist> 48)$Sōmaśēkhara Śarma 1928: 473-484 (Bhārati V</recordHist>
-                     <availability>
-                        <p> issue 3: 473-484)</p>
-                        <licence> Ramayya Pantulu 1930: 1"</licence>
-                     </availability>
-                  </adminInfo>
-                  <surrogates>
-                     <bibl>
-                        <ptr target="sur:&#34;Ramayya Pantulu 1926: 20-22 (Āndhra sāhitya pariṣat patrika XV: 20-22)"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur:Narayana Rao 1937: 1321-1322"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur:Sastri 1969: 308"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig: No. 35"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:Radha Krishna 1971: 58-59"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target=" No. 81&#34;"/>
-                     </bibl>
-                  </surrogates>
-               </additional>
-            </msDesc>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-         <textClass>
-            <keywords>
-               <term> 47)</term>
-               <term>Ramayya Pantulu 1927-1928: 275-277 (EI XIX</term>
-            </keywords>
-         </textClass>
-      </profileDesc>
-      <revisionDesc>
-         <change when="" who="part:">
-                                    Reviews of medadata
-                                </change>
-         <change when="jeth" who="part:2022-01-24">
-                                    Contributions made in medadata
-                                </change>
-         <change when=" 47)&#34;" who="part:2022-01">
                                     import of medadata
                                 </change>
       </revisionDesc>
