@@ -8621,7 +8621,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#religious_land_grant">
-                     <title type="main">Uruvupalli grant, time of Siṃhavarman, year 11</title>
+                     <title type="main">Uruvupalli grantCOMMA time of SiṃhavarmanCOMMA year 11</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -9583,7 +9583,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#contruction_religious_building">
-                     <title type="main">Taḷavāṉūr, time of Mahendravarman I</title>
+                     <title type="main">TaḷavāṉūrCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -9731,7 +9731,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#eulogy">
-                     <title type="main">Kāñcipuram, time of Mahendravarman I</title>
+                     <title type="main">KāñcipuramCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -9953,7 +9953,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title type="main">Mākēntiravaṭi, time of Mahendravarman I</title>
+                     <title type="main">MākēntiravaṭiCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -10175,7 +10175,7 @@
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title type="main">Maṇṭakappaṭṭu, time of Mahendravarman I</title>
+                     <title type="main">MaṇṭakappaṭṭuCOMMA time of Mahendravarman I</title>
                      <textLang mainLang=""/>
                   </msItem>
                </msContents>
@@ -19647,7 +19647,7 @@
                </msIdentifier>
                <msContents>
                   <msItem class="#religious_land_grant">
-                     <title type="main">Vākūr (Pākūr) plates, time of Nṛpatuṅgavarman, year 10</title>
+                     <title type="main">Vākūr (Pākūr) platesCOMMA time of NṛpatuṅgavarmanCOMMA year 10</title>
                      <textLang mainLang="san" otherLangs="tam">
                         <p>Predominantly in Sanskrit, script Grantha and regional Brahmi-derived script</p>
                         <p>Secondary language is Tamil, script Tamil Script and vernacular Brahmi-derived script</p>
