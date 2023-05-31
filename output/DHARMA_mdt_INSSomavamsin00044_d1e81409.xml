@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSSomavamsin00044</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from </p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSSomavamsin00044</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSSomavamsin00044</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">A Stray Plate of Mahābhavagupta Janamejaya I RY 3</title>
+                     <textLang mainLang=""/>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTSomavamsin000038 ">
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="5(+top of the sixth line)-5">
+                           <p>5(+top of the sixth line) lines are observed/preserved on the artifact. 5 are known or estimated for this text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p>engraved.</p>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00044_01.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00044_02.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00044_03.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00044_04.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00044_05.JPG"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-22" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="" who="part:amwb">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

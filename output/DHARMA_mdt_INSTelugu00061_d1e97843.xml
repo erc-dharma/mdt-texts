@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00061</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1918: 82 (appendix B/1917, No. 797)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00061</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00061</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#commemorative-memorial-hero_memorial">
+                     <title type="main">Hero stone of Arivarajamunṟu</title>
+                     <title type="alt">Budidigaddapalle Inscription of Mahendra (II)</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Nilakanta Sastri &amp; Venkataramayya 1947-1948"/>
+                           <citedRange> 244-246 (EI XXVII, 42 L)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 340 (SII X, 632)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Lakshminarayan Rao 1948"/>
+                           <citedRange> lviii</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1918"/>
+                           <citedRange> 82 (appendix B/1917, No. 797)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 304, No. 29</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 35-36, No. 51</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000054 ">
+                     <supportDesc>
+                        <p>On a hero-stone set up to the north-east of Budidigaddapalli, hamlet of Husēnāpuram</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="4">
+                           <p>4 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="palaeography" notBefore="750" notAfter="800">750-800</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>The date is given according to Nilakanta Sastri &amp; Venkataramayya on palaeographical grounds. If Dantiyamma-maṁgu who is mentioned in the text is Rāṣṭrakūṭa Dantidurga the date interval would narrow down to 753-756 or slightly later. Regnal year: Mahēndran mānaravi maṟunṟapiḍugu</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <textClass>
+            <keywords>
+               <term>hero stone</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-02-17" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

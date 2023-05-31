@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00012</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Nilakanta Sastri &amp; Venkataramayya 1947-1948: 228-229 (EI XXVII, 42 C)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00012</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00012</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative-religious_land_grant">
+                     <title type="main">Pannasa of Erigal Tugurāju during the rule of Cōḻamahārāju</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Nilakanta Sastri &amp; Venkataramayya 1947-1948"/>
+                           <citedRange> 228-229 (EI XXVII, 42 C)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 284, No. 6</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 6, No. 9</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000012 ">
+                     <supportDesc>
+                        <p>Engraved on a slab near a well in the village of Uruṭūru, Kamalapuram taluk, Cuddapah district</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="8">
+                           <p>8 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="palaeography" notBefore="600" notAfter="625">600-625</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>The date is taken from EI.</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-01-25" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

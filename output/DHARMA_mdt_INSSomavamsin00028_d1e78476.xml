@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSSomavamsin00028</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from </p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSSomavamsin00028</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSSomavamsin00028</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title type="main">Mahakosala Historical Society's Plates of Mahābhavagupta IV Uddyotakeśarin Year 11</title>
+                     <textLang mainLang=""/>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:"/>
+                           <citedRange/>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <p/>
+                     </supportDesc>
+                     <layoutDesc/>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist/>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_01"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_02"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_03"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_04"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_05"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A05_1954-55_06"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_01"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_02"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_03"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_04"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_05"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="sur:DHARMA_SURARIE_A14_1953-54_06"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_01.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_02.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_03.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_04.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_05.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A05_1954-55_06.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_01.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_02.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_03.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_04.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_05.tif"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_SURARIE_A14_1953-54_06.tif"/>
+                     </bibl>
+                  </surrogates>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-21" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="" who="part:amwb">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

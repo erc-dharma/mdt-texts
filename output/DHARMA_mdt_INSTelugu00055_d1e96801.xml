@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00055</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1938: 38 (appendix B/1937-1938, No. 297)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00055</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00055</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative-religious_land_grant">
+                     <title type="main">A pannavīśa of Immaḍi Īto during the reign of Uttamāditya-cōḻa-mahārāju</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Nilakanta Sastri &amp; Venkataramayya 1947-1948"/>
+                           <citedRange> 240-242 (EI XXVII, 42 J)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1938"/>
+                           <citedRange> 38 (appendix B/1937-1938, No. 297)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 297-299, No. 24</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 34-35, No. 50</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000048 ">
+                     <supportDesc>
+                        <p>On the fourth slab set up in front of the temple of Cennakēśavasvāmin at Veludurti</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="33">
+                           <p>33 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                        <layout writtenLines="13">
+                           <p>Zone A has 13 lines.</p>
+                        </layout>
+                        <layout writtenLines="9">
+                           <p>Zone B has 9 lines.</p>
+                        </layout>
+                        <layout writtenLines="11">
+                           <p>Zone C has 11 lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="reign" when="700">700</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Uttamāditya must have followed his father Vikramāditya of the Rēnāṭi Cōḻas. According to Rama Rao 1932 the latter lived until approx. 700 A.D. So, Uttamāditya's reign must have started thereafter. Regnal year: Uttamāditya-Cōḻa-Mahārāja</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-02-07" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

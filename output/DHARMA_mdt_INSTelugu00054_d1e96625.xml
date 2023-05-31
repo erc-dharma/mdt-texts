@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00054</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1921: 21 (appendix B/1920, No. 359)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00054</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00054</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative">
+                     <title type="main">Land donation under the rule of Vijayādityasatyāśraya and Bali-Indrabāṇarāju</title>
+                     <textLang mainLang="tel" otherLangs="san">
+                        <p>Predominantly in Telugu, script  and </p>
+                        <p>Secondary language is Sanskrit, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Nārāyaṇarāvu 1937"/>
+                           <citedRange> 1324-1325 (HTL II)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 9 (SII X, 23)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1921"/>
+                           <citedRange> 21 (appendix B/1920, No. 359)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 325, No. 51</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 31-33, No. 48</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000047 ">
+                     <supportDesc>
+                        <p>On a stone lying in a field to the north-east of Kondupalli</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="12-13">
+                           <p>12 lines are observed/preserved on the artifact. 13 are known or estimated for this text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" when="719">719</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Regnal year: Vijayāditya, year 23</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-02-04" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

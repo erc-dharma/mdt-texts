@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00001</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Lakhsmana Rao 1927-1928: 271-275 (EI XIX, 47)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00001</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00001</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative-religious_land_grant">
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Butterworth &amp; Venugopaul Chetty 1905"/>
+                           <citedRange> 896-897 (NI II: 896-897)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Lakshmana Rao 1927-1928"/>
+                           <citedRange> 271-275 (EI XIX, 47)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1927-1928"/>
+                           <citedRange> 275-277 (EI XIX, 48)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sōmaśēkhara Śarma 1928"/>
+                           <citedRange> 473-484 (Bhārati V, issue 3: 473-484), Ramayya Pantulu 1930: 1</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1926"/>
+                           <citedRange> 20-22 (Āndhra sāhitya pariṣat patrika XV: 20-22)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Narayana Rao 1937"/>
+                           <citedRange> 1321-1322</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 308, No. 35</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 58-59, No. 81</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000001 ">
+                     <supportDesc>
+                        <p>On a stone lying in a field at Addanki</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="12-16">
+                           <p>12 lines are observed/preserved on the artifact. 16 are known or estimated for this text.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" when="849">849</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>The inscription is damaged at the beginning so that the name of the ruler is lost. It is, however, probable to assign this inscription to the reign of Vijayāditya II whose first year was 849 CE. Regnal year: 1</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-01-24" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

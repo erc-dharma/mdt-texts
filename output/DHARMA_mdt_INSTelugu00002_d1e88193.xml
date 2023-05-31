@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00002</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from Butterworth &amp; Venugopal Chetty 1905: 544-545 (NI II: 544-545)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00002</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00002</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#commemorative-eulogy-victory_record">
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Butterworth &amp; Venugopal Chetty 1905"/>
+                           <citedRange> 544-545 (NI II: 544-545)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sōmaśēkharaśarma 1928"/>
+                           <citedRange> 791-792 (Bhārati V, issue 11: 791-805)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Nārāyaṇarāvu 1937"/>
+                           <citedRange> 1320-1321 (HTL)</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000002 ">
+                     <supportDesc>
+                        <p>On a stone built into the Ramasvāmi Mēḍa in Kandakūr town</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="15">
+                           <p>15 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                        <layout writtenLines="8">
+                           <p>Zone A has 8 lines.</p>
+                        </layout>
+                        <layout writtenLines="6">
+                           <p>Zone B has 6 lines.</p>
+                        </layout>
+                        <layout writtenLines="1">
+                           <p>Zone C has 1 lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="reign" notBefore="849" notAfter="891">849-891</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>The inscription is not conplete but the remaining part refers to the deeds of Paṇḍaraṅga who served under Vijayāditya III whose reign is given as date interval.</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-23" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

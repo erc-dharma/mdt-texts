@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00063</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1893: 15 (appendix B/1893, No. 108-A)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00063</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00063</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#utilitarian-name_person">
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Krishna Sastri 1923"/>
+                           <citedRange> 299 (SII IV, 922)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1893"/>
+                           <citedRange> 15 (appendix B/1893, No. 108-A)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 41, No. 57</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000056 ">
+                     <supportDesc>
+                        <p>On the flight of steps at the first gate leading up the hill to the Trikōṭīśvara temple at Kōṭapakoṇḍa</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="3">
+                           <p>3 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate cert="low" evidence="palaeography" notBefore="700" notAfter="800">700-800</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>"The information on the exact location was taken from Radha Krishna (1971: 41). Radha Krishna (1971: 41, an. 72) states that ""[t]he Editor observes that the ""characters are of the 8th century A. D."""". Krishna Sastri (SII IV, 922, an. 1) states that ""[t]he letters of this inscription are referable to about the 8th century A. D."" (this statement refers to Nos. 922, 923 &amp; 924). Radha Krishna ibidem also refers to M. Somasekhara Sarma in Bhārati No. 11, pp. 461-467 who is said to support this view. However, I could not obtain that respective volume."</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-09" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

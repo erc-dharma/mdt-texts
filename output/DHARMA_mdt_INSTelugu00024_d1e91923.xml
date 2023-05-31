@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00024</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1905: 13 (appendix A/1904, No. 384)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00024</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00024</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative-religious_land_grant">
+                     <title type="main">Land grant of Vasantipōṟi Cōḻamahādēvuḷu</title>
+                     <title type="alt">Rameswaram Pillar Inscription of Punyakumara Cholamaharaja: 5th year</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Nilakanta Sastri &amp; Venkataramayya 1947-1948"/>
+                           <citedRange> 234-236 (EI XXVII, 42 G)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 329-330 (SII X, 599)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1905"/>
+                           <citedRange> 13 (appendix A/1904, No. 384)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 289, No. 13</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 8-10, No. 12</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000022 ">
+                     <supportDesc>
+                        <p>On two faces of another pillar set up in the courtyard of the Rāmaliṅgēśvara temple at Rāmēśvaram near Prodduṭūru</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="22">
+                           <p>22 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                        <layout writtenLines="13">
+                           <p>Zone A has 13 lines.</p>
+                        </layout>
+                        <layout writtenLines="9">
+                           <p>Zone B has 9 lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" when="629">629</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Date according to Rama Rao 1932: 222. Regnal year: Pōrmukharāma Puṇyakumāra Pṛithivīvallabha Chōḻa-Mahārāja, year 5</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-01-28" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>
