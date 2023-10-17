@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <fileDesc>
          <titleStmt>
-            <title>Metadata elements for INSSomavamsin00001</title>
+            <title>Metadata elements for INSTelugu00028</title>
          </titleStmt>
          <editionStmt>
-            <p>Metadata originated from </p>
+            <p>Metadata originated from ARIE 1921: 21 (appendix B/1920, No. 364)</p>
          </editionStmt>
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_mdt_INSSomavamsin00001</idno>
+            <idno type="filename">DHARMA_mdt_INSTelugu00028</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -26,57 +26,47 @@
             <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
-                  <idno>INSSomavamsin00001</idno>
+                  <idno>INSTelugu00028</idno>
                </msIdentifier>
                <msContents>
-                  <msItem class="#donative-religious_land_grant #administrative/legal-royal_order">
-                     <title type="main">Vakratentali Grant of Mahābhavagupta Janamejaya Year 3</title>
-                     <title type="alt">Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</title>
-                     <textLang mainLang="san">
-                        <p>Predominantly in Sanskrit, script  and </p>
+                  <msItem class="#donative">
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
                      </textLang>
                      <listBibl type="primary">
                         <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 10 (SII X, 24)</citedRange>
                         </bibl>
                      </listBibl>
                      <listBibl type="secondary">
                         <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
+                           <ptr target="bib:ARIE 1921"/>
+                           <citedRange> 21 (appendix B/1920, No. 364)</citedRange>
                         </bibl>
                         <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
+                           <ptr target="bib:Nārāyaṇarāvu 1937"/>
+                           <citedRange> 1324 (HTL)</citedRange>
                         </bibl>
                         <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 293-294, No. 19</citedRange>
                         </bibl>
                         <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 18-19, No. 23</citedRange>
                         </bibl>
                      </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc corresp="#ARTTelugu000026 ">
                      <supportDesc>
-                        <p/>
+                        <p>On a stone lying in a field to the north-east of Dimmagudi</p>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="-39">
-                           <p> lines are observed/preserved on the artifact. 39 are known or estimated for this text.</p>
+                        <layout writtenLines="12-13">
+                           <p>12 lines are observed/preserved on the artifact. 13 are known or estimated for this text.</p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -84,41 +74,21 @@
                      <p/>
                   </scriptDesc>
                </physDesc>
-               <history/>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" when="682">682</origDate>.
+                                            </p>
+                  </origin>
+               </history>
                <additional>
                   <adminInfo>
-                     <recordHist/>
+                     <recordHist>As for the date see Radha Krishna p. 18, n. 48. The inscription is very much damaged (see SII) but might have been more readable earlier (see HTL). The inscription was published without a picture. Regnal year: Vikramāditya I, year 27</recordHist>
                      <availability>
                         <p>DHARMA</p>
                         <licence>CC-BY-SA</licence>
                      </availability>
                   </adminInfo>
-                  <surrogates>
-                     <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_01"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_02"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_03"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_04"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_01.tif"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_02.tif"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_03.tif"/>
-                     </bibl>
-                     <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_04.tif"/>
-                     </bibl>
-                  </surrogates>
+                  <surrogates/>
                </additional>
             </msDesc>
          </sourceDesc>
@@ -128,10 +98,10 @@
          <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="2022-03-07" who="part:">
+         <change when="2022-01-31" who="part:">
                                     Contributions made in medadata
                                 </change>
-         <change when="" who="part:amwb">
+         <change when="2022-01" who="part:jeth">
                                     import of medadata
                                 </change>
       </revisionDesc>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00025</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1905: 14 (appendix A/1904, No. 393)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00025</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00025</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative-religious_land_grant">
+                     <title type="alt">Malepadu stone inscription of Satyaditya</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Krishna Sastri 1911-1912"/>
+                           <citedRange> 337-346 (EI XI, 35) [The Telugu inscription on pp. 345-346]</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:Nārāyaṇarāvu 1937"/>
+                           <citedRange> 1323-1324 (HTL)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 290-291, No. 14</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 33-34, No. 49</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000023 ">
+                     <supportDesc>
+                        <p>On two faces of a pillar lying near a well west of Mālēpāḍu</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="30">
+                           <p>30 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                        <layout writtenLines="17">
+                           <p>Zone A has 17 lines.</p>
+                        </layout>
+                        <layout writtenLines="13">
+                           <p>Zone B has 13 lines.</p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" notBefore="725" notAfter="750">725-750</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Date according to Rama Rao 1932: 223. The inscription has to be read from the bottom. Regnal year: Śatyāditunṟu (Chōḻa)</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-01-31" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

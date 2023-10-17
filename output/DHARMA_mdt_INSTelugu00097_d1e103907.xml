@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00097</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1905: 14 (appendix A/1904, No. 391)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00097</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00097</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative">
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 13-14 (SII X, 29)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1905"/>
+                           <citedRange> 14 (appendix A/1904, No. 391)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 326, No. 52</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 88-89, No. 110</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000089 ">
+                     <supportDesc>
+                        <p>On a slab lying behind the Gōpālakṛṣṇasvāmi temple at Mālepāḍu</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="28">
+                           <p>28 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <p>Written in <origDate evidence="reign" notBefore="967" notAfter="972">967-972</origDate>.
+                                            </p>
+                  </origin>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>"The inscription was edited without a picture. The title Nityavarṣa was born both by Indra III and Khoṭṭiga of the Rāṣṭrakūṭa dynasty. The date interval given here is that of the reign of the latter because of two reasons: 1. Another inscription (Kannaḍa) dated to Śaka 893 mentions a ruler with almost identical titles (IA XII, pp. 255-256) who is also called Koṭṭigadēva; 2. It is not stated that the script is ""archaic"" in ARIE. Regnal year: Nityavarṣa-Pṛthvīvallabha"</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-22" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

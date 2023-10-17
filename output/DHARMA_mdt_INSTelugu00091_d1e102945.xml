@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00091</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1923: 17 (appendix B/1922, No. 347)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00091</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00091</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#donative">
+                     <title type="main">Grant of a certain geographical property under the rule of Vaidumba-Mutturāju</title>
+                     <textLang mainLang="tel" otherLangs="san">
+                        <p>Predominantly in Telugu, script  and </p>
+                        <p>Secondary language is Sanskrit, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 342 (SII X, 638)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1923"/>
+                           <citedRange> 17 (appendix B/1922, No. 347)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 342, No. 89</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Radha Krishna 1971"/>
+                           <citedRange> 78, No. 96</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000083 ">
+                     <supportDesc>
+                        <p>On a slab set up in a field to the west of Raṅgasamudram</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="17">
+                           <p>17 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist>Sastri (ibidem) wrongly attributes this inscription to SII X, 640. The inscription was published without a picture. Regnal year: Vaidumba-Mutturāju</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-03-18" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
       <fileDesc>
          <titleStmt>
-            <title>Metadata elements for INSSomavamsin00001</title>
+            <title>Metadata elements for INSSomavamsin00033</title>
          </titleStmt>
          <editionStmt>
             <p>Metadata originated from </p>
@@ -9,7 +9,7 @@
          <publicationStmt>
             <authority>DHARMA</authority>
             <pubPlace>Paris</pubPlace>
-            <idno type="filename">DHARMA_mdt_INSSomavamsin00001</idno>
+            <idno type="filename">DHARMA_mdt_INSSomavamsin00033</idno>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/">
                   <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
@@ -26,24 +26,13 @@
             <msDesc>
                <msIdentifier>
                   <repository>DHARMAbase</repository>
-                  <idno>INSSomavamsin00001</idno>
+                  <idno>INSSomavamsin00033</idno>
                </msIdentifier>
                <msContents>
-                  <msItem class="#donative-religious_land_grant #administrative/legal-royal_order">
-                     <title type="main">Vakratentali Grant of Mahābhavagupta Janamejaya Year 3</title>
-                     <title type="alt">Vakratentalī grant of Mahābhavagupta I Janamejaya, Year 3</title>
-                     <textLang mainLang="san">
-                        <p>Predominantly in Sanskrit, script  and </p>
-                     </textLang>
+                  <msItem>
+                     <title type="main">A Stray Plate of Uddyotakeśarin from Mahada</title>
+                     <textLang mainLang=""/>
                      <listBibl type="primary">
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
                         <bibl>
                            <ptr target="bib:"/>
                            <citedRange/>
@@ -58,30 +47,22 @@
                            <ptr target="bib:"/>
                            <citedRange/>
                         </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
-                        <bibl>
-                           <ptr target="bib:"/>
-                           <citedRange/>
-                        </bibl>
                      </listBibl>
                   </msItem>
                </msContents>
                <physDesc>
-                  <objectDesc>
+                  <objectDesc corresp="#ARTSomavamsin000037 ">
                      <supportDesc>
                         <p/>
                      </supportDesc>
                      <layoutDesc>
-                        <layout writtenLines="-39">
-                           <p> lines are observed/preserved on the artifact. 39 are known or estimated for this text.</p>
+                        <layout writtenLines="14">
+                           <p>14 lines are observed/preserved on the artifact. </p>
                         </layout>
                      </layoutDesc>
                   </objectDesc>
                   <scriptDesc>
-                     <p/>
+                     <p>engraved.</p>
                   </scriptDesc>
                </physDesc>
                <history/>
@@ -95,28 +76,37 @@
                   </adminInfo>
                   <surrogates>
                      <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_01"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_01.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_02"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_02.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_03"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_03.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="sur:DHARMA_SURARIE_A67_1955-56_04"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_04.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_01.tif"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_05.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_02.tif"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_06.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_03.tif"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_07.JPG"/>
                      </bibl>
                      <bibl>
-                        <ptr target="dig:DHARMA_SURARIE_A67_1955-56_04.tif"/>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_08.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_09.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_10.JPG"/>
+                     </bibl>
+                     <bibl>
+                        <ptr target="dig:DHARMA_INSSomavamsin00033_11.JPG"/>
                      </bibl>
                   </surrogates>
                </additional>
@@ -128,7 +118,7 @@
          <change when="" who="part:">
                                     Reviews of medadata
                                 </change>
-         <change when="2022-03-07" who="part:">
+         <change when="2022-03-21" who="part:">
                                     Contributions made in medadata
                                 </change>
          <change when="" who="part:amwb">

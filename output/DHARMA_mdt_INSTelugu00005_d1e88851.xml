@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?><line xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <fileDesc>
+         <titleStmt>
+            <title>Metadata elements for INSTelugu00005</title>
+         </titleStmt>
+         <editionStmt>
+            <p>Metadata originated from ARIE 1918: 82 (appendix B/1917, No. 798)</p>
+         </editionStmt>
+         <publicationStmt>
+            <authority>DHARMA</authority>
+            <pubPlace>Paris</pubPlace>
+            <idno type="filename">DHARMA_mdt_INSTelugu00005</idno>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/">
+                  <p>This work is licensed under the Creative Commons Attribution 4.0 Unported
+                                                Licence. To view a copy of the licence, visit
+                                                https://creativecommons.org/licenses/by/4.0/ or send a letter to
+                                                Creative Commons, 444 Castro Street, Suite 900, Mountain View,
+                                                California, 94041, USA.</p>
+                  <p>Copyright (c) 2019-2025 by DHARMA.</p>
+               </licence>
+            </availability>
+            <date from="2019" to="2025">2019-2025</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>DHARMAbase</repository>
+                  <idno>INSTelugu00005</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem class="#commemorative-memorial-hero_memorial">
+                     <title type="main">Hero stone of Aravaḷa</title>
+                     <textLang mainLang="tel">
+                        <p>Predominantly in Telugu, script  and </p>
+                     </textLang>
+                     <listBibl type="primary">
+                        <bibl>
+                           <ptr target="bib:Ramayya Pantulu 1948"/>
+                           <citedRange> 331-332 (SII X, 602)</citedRange>
+                        </bibl>
+                     </listBibl>
+                     <listBibl type="secondary">
+                        <bibl>
+                           <ptr target="bib:ARIE 1918"/>
+                           <citedRange> 82 (appendix B/1917, No. 798)</citedRange>
+                        </bibl>
+                        <bibl>
+                           <ptr target="bib:Sastri 1969"/>
+                           <citedRange> 333, No. 67</citedRange>
+                        </bibl>
+                     </listBibl>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc corresp="#ARTTelugu000005 ">
+                     <supportDesc>
+                        <p>North-east of Budidagaddapalli, hamlet of Budili</p>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout writtenLines="3">
+                           <p>3 lines are observed/preserved on the artifact. </p>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <scriptDesc>
+                     <p/>
+                  </scriptDesc>
+               </physDesc>
+               <history/>
+               <additional>
+                  <adminInfo>
+                     <recordHist>The inscription was published without a picture. Regnal year: Cōḻamahārāja</recordHist>
+                     <availability>
+                        <p>DHARMA</p>
+                        <licence>CC-BY-SA</licence>
+                     </availability>
+                  </adminInfo>
+                  <surrogates/>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc/>
+      <revisionDesc>
+         <change when="" who="part:">
+                                    Reviews of medadata
+                                </change>
+         <change when="2022-01-24" who="part:">
+                                    Contributions made in medadata
+                                </change>
+         <change when="2022-01" who="part:jeth">
+                                    import of medadata
+                                </change>
+      </revisionDesc>
+   </line>
